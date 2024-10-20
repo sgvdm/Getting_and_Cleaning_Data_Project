@@ -17,7 +17,7 @@ This code book describes the data, variables, and transformations used in the an
 
 ### Download the Data
 
-1. Download the dataset from the URL provided above.
+1. Code checks to see if you already have the data and downloads the dataset from the URL provided above if you don't have it already.
 2. Unzip the file into your R working directory, maintaining the folder structure.
 
 ### R Environment
